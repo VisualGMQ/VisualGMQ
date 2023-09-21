@@ -9,8 +9,8 @@
 - 🌱 会一些Vulkan。沉浸于游戏引擎开发和游戏开发
 <!-- - 🌱 正在编写[Grogue](https://github.com/VisualGMQ/grogue)，一个Roguelite游戏。[在线试玩Web版！](https://visualgmq.github.io/projects/grogue-demo/grogue.html)，每周日更新！ -->
 
-- 💻 用的最多的语言是![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)，这里是我的一些C++项目：
-  - [gecs](https://github.com/VisualGMQ/gecs)：ECS框架，源码借鉴EnTT，API设计借鉴Bevy
+- 💻 用的最多的语言是![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)，这里是我的一些项目：
+  - [gecs](https://github.com/VisualGMQ/gecs)：C++17 ECS框架，源码借鉴EnTT，API设计借鉴Bevy
   - [mirrow](https://github.com/VisualGMQ/mirrow)：C++17 模板元编程框架，含有静态/动态反射和自动序列化功能
   - [rs-cpurenderer](https://github.com/VisualGMQ/rs-cpurenderer)：使用rust编写的软渲染
 
