@@ -13,6 +13,7 @@
   - [gecs](https://github.com/VisualGMQ/gecs)：C++17 ECS框架，源码借鉴EnTT，API设计借鉴Bevy
   - [mirrow](https://github.com/VisualGMQ/mirrow)：C++17 模板元编程框架，含有静态/动态反射和自动序列化功能
   - [rs-cpurenderer](https://github.com/VisualGMQ/rs-cpurenderer)：使用rust编写的软渲染
+  - [NickelEngine](https://github.com/VisualGMQ/NickelEngine)：C++17，基于ECS的游戏引擎（施工中）
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisualGMQ&layout=compact&hide=html,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
 
