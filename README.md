@@ -15,10 +15,4 @@
   - [rs-cpurenderer](https://github.com/VisualGMQ/rs-cpurenderer)：使用rust编写的软渲染
   - [NickelEngine](https://github.com/VisualGMQ/NickelEngine)：C++17，基于ECS的游戏引擎（施工中）
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisualGMQ&layout=compact&hide=html,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualGMQ&layout=compact)
-
-<!--[![wakatime](https://wakatime.com/badge/user/7e7c9b8c-f1a2-45d5-a175-922086f27157.svg)](https://wakatime.com/@7e7c9b8c-f1a2-45d5-a175-922086f27157)-->
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@VisualGMQ)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VisualGMQ/041fbe06-aac6-4070-b8e4-9f5fc377499c.png" /></a>
